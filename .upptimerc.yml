@@ -13,6 +13,8 @@ sites:
     url: https://bin.eka.monster
   - name: StatPing
     url: https://stat.eka.monster
+  - name: LibreX
+    url: https://librex.eka.monster  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
