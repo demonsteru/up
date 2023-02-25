@@ -17,9 +17,9 @@ sites:
     url: https://librex.eka.monster  
   - name: SearxNG
     url: https://sx.eka.monster 
-   - name: SearxNG II
+  - name: SearxNG II
     url: https://sng.eka.monster 
-   - name: SearxNG III
+  - name: SearxNG III
     url: https://sx3.eka.monster 
 
 status-website:
