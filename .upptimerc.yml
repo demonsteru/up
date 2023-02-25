@@ -17,6 +17,10 @@ sites:
     url: https://librex.eka.monster  
   - name: SearxNG
     url: https://sx.eka.monster 
+   - name: SearxNG II
+    url: https://sng.eka.monster 
+   - name: SearxNG III
+    url: https://sx3.eka.monster 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
