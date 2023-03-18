@@ -1,7 +1,7 @@
 url: https://lr.eka.monster
-status: up
-code: 200
-responseTime: 942
-lastUpdated: 2023-03-18T06:41:34.718Z
+status: down
+code: 502
+responseTime: 3441
+lastUpdated: 2023-03-18T15:31:00.843Z
 startTime: Wed Feb 22 2023 17:25:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
