@@ -1,7 +1,7 @@
 url: https://librex.eka.monster
-status: up
-code: 200
-responseTime: 680
-lastUpdated: 2023-03-28T18:30:09.785Z
+status: down
+code: 502
+responseTime: 5279
+lastUpdated: 2023-03-28T22:35:08.783Z
 startTime: Sat Feb 25 2023 11:14:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
