@@ -1,7 +1,7 @@
 url: https://wg.poko.dob.jp
-status: up
-code: 200
-responseTime: 836
-lastUpdated: 2023-06-22T23:11:49.340Z
+status: down
+code: 502
+responseTime: 27120
+lastUpdated: 2023-06-23T02:51:25.803Z
 startTime: Fri Mar 03 2023 04:44:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
