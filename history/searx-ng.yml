@@ -1,7 +1,7 @@
 url: https://sx.eka.monster
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2023-06-24T23:10:42.354Z
+status: down
+code: 502
+responseTime: 10358
+lastUpdated: 2023-06-25T05:44:56.194Z
 startTime: Sat Feb 25 2023 13:54:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
