@@ -1,7 +1,7 @@
 url: https://sng.eka.monster
-status: up
-code: 200
-responseTime: 27078
-lastUpdated: 2023-08-10T23:44:28.901Z
+status: down
+code: 502
+responseTime: 459
+lastUpdated: 2023-08-11T11:21:49.773Z
 startTime: Sat Feb 25 2023 15:09:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
