@@ -5,8 +5,8 @@ repo: up # The name of this repository
 sites:
   - name: Libreddit
     url: https://lr.eka.monster
-  - name: YTMous
-    url: https://ytmous.eka.monster
+ # - name: YTMous
+  #  url: https://ytmous.eka.monster
   - name: Hastebin
     url: https://haste.eka.monster
   - name: PrivateBin
