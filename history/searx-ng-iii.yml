@@ -1,7 +1,7 @@
 url: https://sx3.eka.monster
-status: up
-code: 200
-responseTime: 891
-lastUpdated: 2023-09-16T23:08:54.248Z
+status: down
+code: 502
+responseTime: 4501
+lastUpdated: 2023-09-17T15:09:15.392Z
 startTime: 2023-02-25T15:09:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
