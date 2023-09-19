@@ -1,7 +1,7 @@
 url: https://sx.poko.dob.jp
-status: up
-code: 200
-responseTime: 527
-lastUpdated: 2023-09-18T23:09:35.848Z
+status: down
+code: 502
+responseTime: 10546
+lastUpdated: 2023-09-19T19:31:18.235Z
 startTime: 2023-03-03T05:58:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
