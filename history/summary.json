@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lr.eka.monster.ico",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "13.85%",
+    "uptime": "13.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "8.93%",
+    "uptimeYear": "8.84%",
     "time": 2000,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 973,
+    "timeYear": 942,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -349,8 +350,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   },
   {
@@ -359,18 +359,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/haste.eka.monster.ico",
     "slug": "hastebin",
     "status": "down",
-    "uptime": "40.38%",
+    "uptime": "40.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "37.08%",
+    "uptimeYear": "36.81%",
     "time": 1120,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1171,
+    "timeYear": 1173,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -612,8 +613,7 @@
       "2023-04-07": 130,
       "2023-04-03": 55,
       "2023-03-29": 28,
-      "2023-03-28": 16,
-      "2023-03-23": 70
+      "2023-03-28": 16
     }
   },
   {
@@ -622,18 +622,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.eka.monster.ico",
     "slug": "private-bin",
     "status": "down",
-    "uptime": "41.69%",
+    "uptime": "41.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "37.37%",
+    "uptimeYear": "37.10%",
     "time": 860,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 830,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -875,8 +876,7 @@
       "2023-04-07": 156,
       "2023-04-03": 43,
       "2023-03-29": 28,
-      "2023-03-28": 16,
-      "2023-03-23": 64
+      "2023-03-28": 16
     }
   },
   {
@@ -885,18 +885,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stat.eka.monster.ico",
     "slug": "stat-ping",
     "status": "down",
-    "uptime": "34.17%",
+    "uptime": "34.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "29.33%",
+    "uptimeYear": "29.06%",
     "time": 1034,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 909,
+    "timeYear": 910,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -1164,8 +1165,7 @@
       "2023-04-07": 132,
       "2023-04-03": 19,
       "2023-03-29": 28,
-      "2023-03-28": 38,
-      "2023-03-23": 70
+      "2023-03-28": 38
     }
   },
   {
@@ -1174,18 +1174,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/librex.eka.monster.ico",
     "slug": "libre-x",
     "status": "down",
-    "uptime": "41.14%",
+    "uptime": "41.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "37.18%",
+    "uptimeYear": "36.91%",
     "time": 829,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 863,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -1427,8 +1428,7 @@
       "2023-04-07": 143,
       "2023-04-03": 54,
       "2023-03-29": 28,
-      "2023-03-28": 37,
-      "2023-03-23": 70
+      "2023-03-28": 37
     }
   },
   {
@@ -1437,18 +1437,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sx.eka.monster.ico",
     "slug": "searx-ng",
     "status": "down",
-    "uptime": "83.37%",
+    "uptime": "83.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "82.26%",
+    "uptimeYear": "81.98%",
     "time": 2086,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2158,
+    "timeYear": 2160,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -1558,8 +1559,7 @@
       "2023-04-07": 133,
       "2023-04-03": 96,
       "2023-03-29": 28,
-      "2023-03-28": 32,
-      "2023-03-23": 70
+      "2023-03-28": 32
     }
   },
   {
@@ -1568,18 +1568,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sng.eka.monster.ico",
     "slug": "searx-ng-ii",
     "status": "down",
-    "uptime": "63.93%",
+    "uptime": "63.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "61.55%",
+    "uptimeYear": "61.27%",
     "time": 4309,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4491,
+    "timeYear": 4500,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -1747,8 +1748,7 @@
       "2023-04-07": 154,
       "2023-04-03": 66,
       "2023-03-29": 28,
-      "2023-03-28": 42,
-      "2023-03-23": 66
+      "2023-03-28": 42
     }
   },
   {
@@ -1757,18 +1757,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sx3.eka.monster.ico",
     "slug": "searx-ng-iii",
     "status": "down",
-    "uptime": "83.13%",
+    "uptime": "82.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "82.00%",
+    "uptimeYear": "81.72%",
     "time": 2179,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2254,
+    "timeYear": 2257,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -1882,8 +1883,7 @@
       "2023-04-06": 15,
       "2023-04-03": 78,
       "2023-03-29": 28,
-      "2023-03-28": 36,
-      "2023-03-23": 70
+      "2023-03-28": 36
     }
   },
   {
@@ -1892,18 +1892,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wg.poko.dob.jp.ico",
     "slug": "whoogle-poko",
     "status": "down",
-    "uptime": "79.58%",
+    "uptime": "79.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "78.53%",
+    "uptimeYear": "78.26%",
     "time": 2624,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2696,
+    "timeYear": 2700,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -2004,8 +2005,7 @@
       "2023-04-07": 149,
       "2023-04-03": 63,
       "2023-03-29": 28,
-      "2023-03-28": 42,
-      "2023-03-23": 66
+      "2023-03-28": 42
     }
   },
   {
@@ -2014,18 +2014,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sx.poko.dob.jp.ico",
     "slug": "searx-ng-poko",
     "status": "down",
-    "uptime": "79.46%",
+    "uptime": "79.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "78.40%",
+    "uptimeYear": "78.13%",
     "time": 2123,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2172,
+    "timeYear": 2176,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -2124,8 +2125,7 @@
       "2023-04-07": 177,
       "2023-04-03": 55,
       "2023-03-29": 46,
-      "2023-03-28": 34,
-      "2023-03-23": 60
+      "2023-03-28": 34
     }
   }
 ]
